@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# STAGING ONLY. On the client's own domain change this to:
+# User-agent: *
+# Allow: /
